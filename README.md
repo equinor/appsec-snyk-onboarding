@@ -21,3 +21,10 @@ The contents of the onboarding slides are contained in a set of markdown file in
 - `docker build -t "osssnyk" .`
 - `docker run -d --name ossnyk_web -p 8080:8080 ossnyk`
 - User your browser to visit localhost:8080 (if builded locally) - or open the Ports tab in in codespaces, and visit your private link.
+
+### SRI - Integrity check for own provided source files
+
+How to provide a hash for the .js and .css file provided in the source.
+
+- `cat ./content/js/app.js | openssl dgst -sha512 -binary | openssl base64 -A`
+- `cat ./content/css/equinor.css | openssl dgst -sha512 -binary | openssl base64 -A`
