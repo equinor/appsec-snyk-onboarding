@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="./content/images/appsec-icon.svg" data-background-size="15%" data-background-position="right 2% top 2%"-->
+<!-- .slide: data-background-image="./content/images/appsec-icon.svg" data-background-size="7%" data-background-position="right 2% top 2%"-->
 
 # Thank You!
 
