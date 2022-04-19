@@ -8,7 +8,8 @@
         script-src 'self' https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/ 'unsafe-eval';
         style-src 'self' eds-static.equinor.com https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/ 'unsafe-inline';
         img-src 'self' eds-static.equinor.com data: 'self';
-        font-src 'self' eds-static.equinor.com;">
+        font-src 'self' eds-static.equinor.com;
+        frame-src frame-src 'self' web.microsoftstream.com;">
         
         <title>Open Source vulnerabilities and dependencies - Onboarding Snyk</title>
 
@@ -20,8 +21,7 @@
         <!-- Theme used for syntax highlighted code -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/plugin/highlight/monokai.css" 
         integrity="sha512-ITi+aXPAZ6cIHUIulO7jdT3gOiN9w4xIkyqJjFleAkjp2PLj0+oKmjIRlEjudk1bBvjNu4EkyFMstRzwZ+E0GA==" crossorigin="anonymous">
-        <link rel="stylesheet" href="./content/css/equinor.css" id="theme"
-        integrity="sha512-I5gFjvXYCwV2KgvQR+flc2ADcvu79GBcr2zoFbgJz2dl5iWsigz6F6O/o4bJLIcy56/NZ+LBpiX4sfdIj4+dig==" crossorigin="anonymous">
+        <link rel="stylesheet" href="./content/css/equinor.css" id="theme">
     </head>
     <body>
 
@@ -36,7 +36,29 @@
                     data-separator-notes="^Note:"
                     data-charset="utf-8"></section>
 
-                   
+                    <section data-markdown="content/motivation.md"
+                    data-separator="^-----"
+                    data-separator-vertical="^---"
+                    data-separator-notes="^Note:"
+                    data-charset="utf-8"></section>
+
+                <section data-markdown="content/automation_evaluation.md"
+                    data-separator="^-----"
+                    data-separator-vertical="^---"
+                    data-separator-notes="^Note:"
+                    data-charset="utf-8"></section>
+
+                <section data-markdown="content/limitations.md"
+                    data-separator="^-----"
+                    data-separator-vertical="^---"
+                    data-separator-notes="^Note:"
+                    data-charset="utf-8"></section>
+
+                <section data-markdown="content/setup_integration_ui.md"
+                    data-separator="^-----"
+                    data-separator-vertical="^---"
+                    data-separator-notes="^Note:"
+                    data-charset="utf-8"></section>
 
                 <section data-markdown="content/epilog.md"
                     data-separator="^-----"
