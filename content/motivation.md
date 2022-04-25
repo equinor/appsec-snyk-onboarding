@@ -12,7 +12,7 @@
   - Has had substantial production burn time​
   - Bugs and vulnerabilities quickly discovered and patched​
 - BUT​
-  - We have tons of dependencies (npm list anyone?)​
+  - We have tons of dependencies
   - As all software, they have vulnerabilities​
   - And they are quickly discovered​
   - So YOU need to update to latest patch​

@@ -4,13 +4,11 @@
 
 ---
 
-## Limitations 
+## Limitations
 
-- Snyk SCM can only "see" your files outside the context of a built project
-  - Docker? Only vulnerabilities in base image are reported
-  - Python requirements.txt? Transitive dependencies not scanned
-  - C++? We don't even do that (yet)
-- Remedy
+- Not all package managers supported (most supported with CLI)
+- Only vulnerabilities in Docker base image are reported
+- Mitigation:
   - Use lockfile based package managers (e.g. npm, composer)
 
 Note:

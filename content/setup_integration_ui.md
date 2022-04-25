@@ -6,16 +6,6 @@
 
 ## Setting up GitHub integration
 
-Any text here?
-
-Note:
-
-- Instructor notes
-
----
-
-## Walkthrough of UI
-
 - Issues
 - Org settings
 - Project settings
