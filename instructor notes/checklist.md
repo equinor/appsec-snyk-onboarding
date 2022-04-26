@@ -15,13 +15,11 @@ Hi,
 We're excited to introduce Snyk (https://snyk.io) to your team. Snyk is a tool to find and automatically fix vulnerabilities in code, open source dependencies, containers, and infrastructure as code. We will walk your team through the basics of setting up Snyk, and how to interpret the results.
 
 Preparations:
-
 Apply for access to Snyk through AccessIT:
 
 https://accessit.equinor.com/Search/Search?term=snyk
 
 After Access in granted, please log in to Snyk with SSO to activate your account:
-
 https://app.snyk.io/login/sso
 
 NB: At the moment AccessIT is only available through internal network, so if you are sitting at home VPN or connectIt is required.
@@ -39,4 +37,4 @@ AppSec team
 
 ## After workshop
 - Register team and onboarding session in [spreadsheet](https://statoilsrm.sharepoint.com/:x:/r/sites/ISCAppSec/Shared%20Documents/General/Snyk%20adoption/Onboarding%20sessions.xlsx?d=w3316d62130554a1ca6b9f7db08ca50d2&csf=1&web=1&e=bsg2fv)
-- Fill in workshop experience in [eperience document](https://statoilsrm.sharepoint.com/:w:/r/sites/ISCAppSec/Shared%20Documents/General/Snyk%20adoption/Workshop%20experience.docx?d=wf85532313c6a493a9ff1d2030a6e58f0&csf=1&web=1&e=cKaJAr)
+- Fill in workshop experience in [experience document](https://statoilsrm.sharepoint.com/:w:/r/sites/ISCAppSec/Shared%20Documents/General/Snyk%20adoption/Workshop%20experience.docx?d=wf85532313c6a493a9ff1d2030a6e58f0&csf=1&web=1&e=cKaJAr)
