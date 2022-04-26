@@ -4,10 +4,20 @@
 
 ---
 
+## SDLC
+
+Diagram of SDLC and Snyk 
+---
+
+
 ## Automating vulnerability discovery
 
-- Snyk uses many different strategies to discover publicly known vulnerabilities <!-- .element: style="font-size:0.8em"-->
-- Focusing on Snyk GitHub integration with entry-level scanning <!-- .element: style="font-size:0.8em"-->
+- Snyk uses many different sources to discover publicly known vulnerabilities <!-- .element: style="font-size:0.8em"-->
+
+### Getting started
+
+- A good starting point will be to focusing on the Snyk GitHub integration with entry-level scanning <!-- .element: style="font-size:0.8em"-->
+
 - Capabilities <!-- .element: style="font-size:0.8em"-->
   - Vulnerability discovery for many programming languages <!-- .element: style="font-size:0.8em"-->
   - Explanation of vulnerability <!-- .element: style="font-size:0.8em"-->
@@ -15,9 +25,6 @@
   - Automated pull requests <!-- .element: style="font-size:0.8em"-->
   - Reporting <!-- .element: style="font-size:0.8em"-->
 
-Note:
-
-- Instructor notes
 
 ---
 

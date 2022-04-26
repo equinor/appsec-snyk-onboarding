@@ -6,30 +6,27 @@
 
 <div  style="grid-area: 1 / 1; font-size: 0.7em;">
 
-- Third party software is ubiquitous​
-  - Many advantages (look for these properties)​
-  - Well tested​
-  - Has had substantial production burn time​
-  - Bugs and vulnerabilities quickly discovered and patched​
-- BUT​
-  - We have tons of dependencies
-  - As all software, they have vulnerabilities​
-  - And they are quickly discovered​
-  - So YOU need to update to latest patch​
+- Open Source Software (OSS) is everywhere
+  - It is a foundation for all modern software development​
+  - In Equinor we develop OSS. </br>([Open Source in Equinor](https://opensource.app.radix.equinor.com/))
+  - OSS typically represent 80%+ of all code in system developed by Equinor - and by our vendors
+    - That is code we have not developed our self
+    - More code means more vulnerabilities!
+- All software is a living organism
+  - All software needs regular TLC (Tender, Love, Care)
+  - Code and dependencies MUST be kept up-to-date
+  - Snyk will assist in identifying known vulnerability of OSS libraries
 
 </div>
+
 <div  style="grid-area: 1 / 2;"><image src="./content/images/npm_vulnerabilities.png"/></div>
+
 </div>
-
-
-Note:
-
-- Instructor notes
 
 ---
 
 <!-- Video -->
-<iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/079e0dd7-2eb9-49f9-9c16-366824f7ed6d?autoplay=false&showinfo=false" allowfullscreen style="border:none;"></iframe>
+<iframe width="1080" height="560" src="https://www.youtube-nocookie.com/embed/6WJvEUsAIxc" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 
 Note:
 - A side note: It’s not about if your are hacked, it’s when. How you handle the incident is important. Hydro was transparent – and handled their crisis good. No real loss in reputation, rather the opposite.
@@ -45,4 +42,3 @@ Video sources on Youtube:
 - Hydro - Transparency - Why Hydro chose to be transparent during cyber-attack (ransome, transparency)
 Kongsberg -The Johan Sverdrup oil field (tech on »new» plants)
 
-- Link to Stream Video: https://web.microsoftstream.com/video/079e0dd7-2eb9-49f9-9c16-366824f7ed6d

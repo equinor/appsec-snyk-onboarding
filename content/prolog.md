@@ -2,24 +2,22 @@
 Welcome to
 # Snyk onboarding
 
-Discovering open source vulnerabilities in our dependencies.
+Identifying known vulnerabilities </br>in our open source dependencies.
 
 ---
 
 ## Practicalities
 
-- Please interfere during the workshop - this is not a presentation or monolog <!-- .element: style="font-size:0.8em"-->
-- Link to slides:  <!-- .element: style="font-size:0.8em"-->
-  - `https://github.com/equinor/appsec-snyk-onboarding` <!-- .element: style="font-size:0.8em"-->
+- It is ok to Interrupt during the workshop</br> - this is not a presentation or monolog 
+- Slides and code are available at: </br> - [https://github.com/equinor/appsec-snyk-onboarding](https://github.com/equinor/appsec-snyk-onboarding)
 
 ---
 ## Snyk onboarding
 
 Purpose:
 
-> Enable DevOps team to use Snyk as a tool for scanning of vulnerabilities
-> in their open source library dependencies and how to monitor their progress.
-> This as early as possible in their SDLC lifecycle.
+> Enable Equinor DevOps teams to use Snyk as a tool that will scan for known vulnerabilities
+> in their open source dependencies. Introduce how Snyk can be used in the SDLC.
 
 ---
 ## Main Topics
@@ -29,4 +27,3 @@ Purpose:
 - Limitations <!-- .element: style="font-size:0.8em"-->
 - Snyk - tooling, GitHub integration and UI <!-- .element: style="font-size:0.8em"-->
 - Discussion <!-- .element: style="font-size:0.8em"-->
-
