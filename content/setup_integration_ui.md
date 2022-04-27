@@ -1,7 +1,6 @@
 <!-- .slide: data-background-image="./content/images/appsec-icon.svg" data-background-size="7%" data-background-position="right 2% top 2%"-->
 
-# Snyk - integration and UI
-
+# Snyk - The Github Integration
 ---
 
 ## Setting up GitHub integration

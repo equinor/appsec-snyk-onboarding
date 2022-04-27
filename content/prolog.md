@@ -8,7 +8,7 @@ Identifying known vulnerabilities </br>in our open source dependencies.
 
 ## Practicalities
 
-- It is ok to Interrupt during the workshop</br> - this is not a presentation or monolog 
+- Please DO interrupt during the workshop</br> - this is not a presentation or monolog
 - Slides and code are available at: </br> - [https://github.com/equinor/appsec-snyk-onboarding](https://github.com/equinor/appsec-snyk-onboarding)
 
 ---
@@ -23,7 +23,6 @@ Purpose:
 ## Main Topics
 
 - Motivation - why we do this <!-- .element: style="font-size:0.8em"-->
-- Automation and evaluation   <!-- .element: style="font-size:0.8em"-->
-- Limitations <!-- .element: style="font-size:0.8em"-->
-- Snyk - tooling, GitHub integration and UI <!-- .element: style="font-size:0.8em"-->
+- Snyk Intro   <!-- .element: style="font-size:0.8em"-->
+- Demo: Snyk - GitHub integration <!-- .element: style="font-size:0.8em"-->
 - Discussion <!-- .element: style="font-size:0.8em"-->
