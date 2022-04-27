@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "ritwickdey.LiveServer"
+        "ritwickdey.liveserver",
+        "snyk-security.snyk-vulnerability-scanner"
     ]
 }

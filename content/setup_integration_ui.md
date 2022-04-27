@@ -29,3 +29,4 @@
   * Selector (Projects, Filters)
   * Summary, Issues, Dependencies, Licenses
 * Explore Dashboard
+* Optional: Explore CLI &| VSCode Plugin

@@ -16,6 +16,7 @@
   - All software needs regular TLC (Tender, Love, Care)
   - Code and dependencies MUST be kept up-to-date
   - Snyk will assist in identifying known vulnerability of OSS libraries
+- Patching is a firm requirement in Equinor (WR1211)
 
 </div>
 
@@ -41,4 +42,3 @@ Video sources on Youtube:
 - FB - 553 - 500 Million Facebook Us ers Hacked! (Just Now) (bug?)
 - Hydro - Transparency - Why Hydro chose to be transparent during cyber-attack (ransome, transparency)
 Kongsberg -The Johan Sverdrup oil field (tech on »new» plants)
-
