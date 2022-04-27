@@ -19,7 +19,7 @@ The contents of the onboarding slides are contained in a set of markdown file in
 
 ### Docker container
 
-- `docker build -t "osssnyk" .`
+- `docker build -t "ossnyk" .`
 - `docker run -d --name ossnyk_web -p 8080:8080 ossnyk`
 - User your browser to visit localhost:8080 (if builded locally) - or open the Ports tab in in codespaces, and visit your private link.
 
