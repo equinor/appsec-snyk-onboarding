@@ -15,18 +15,22 @@ Hi,
 We're excited to introduce Snyk (https://snyk.io) to your team. Snyk is a tool to find and automatically fix vulnerabilities in code, open source dependencies, containers, and infrastructure as code. We will walk your team through the basics of setting up Snyk, and how to interpret the results.
 
 Preparations:
-Apply for access to Snyk through AccessIT:
 
-https://accessit.equinor.com/Search/Search?term=snyk
+- Apply for access to Snyk through AccessIT: https://accessit.equinor.com/Search/Search?term=snyk
+- After Access in granted, please log in to Snyk with SSO to activate your account: https://app.snyk.io/login/sso
 
-After Access in granted, please log in to Snyk with SSO to activate your account:
-https://app.snyk.io/login/sso
-
-NB: At the moment AccessIT is only available through internal network, so if you are sitting at home VPN or connectIt is required.
+NB: At the moment AccessIT is only available when connected to the corporate network, so if you are at home - VPN or connectIT is required.
 
 All the best,
 
 AppSec team
+
+---
+
+Relevant links :
+- AppSec Team - our objectives (Why) - https://iscappsec.app.radix.equinor.com/tasks/objectives-and-activities/
+- Community - #AppSec channel @ Slack => https://equinor.slack.com/archives/CMM6FSW5V
+- Equinor AppSec info pages - https://equinor.github.io/appsec
 ```
 
 ## During workshop
