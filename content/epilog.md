@@ -4,6 +4,20 @@
 
 ---
 
+# Important Resources
+
+* [ISC AppSec Snyk Guidelines](https://equinor.github.io/appsec/snyk-guidelines/guidelines.html)
+* Snyk
+  * [https://app.snyk.io](https://app.snyk.io)
+  * [https://docs.snyk.io/](https://docs.snyk.io/)
+* Support
+  * [#AppSec](https://equinor.slack.com/archives/CMM6FSW5V)
+  * [#snyk-equinor-bridge](https://equinor.slack.com/archives/C019LBMKJPL) (Monitored by Snyk)
+  * [Snyk Support](https://support.snyk.io/hc/en-us)
+
+---
+
+
 ## Thank You!
 
 join us - [#AppSec channel - equinor.slack.com](https://equinor.slack.com)

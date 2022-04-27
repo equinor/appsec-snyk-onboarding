@@ -14,7 +14,8 @@ The contents of the onboarding slides are contained in a set of markdown file in
 
 ### Live Server
 
-- To host the files - simply press to "Go Live" icon toolbar bottom right, and the port 5500 is forwarded to your client.
+- To host the files, use the "Live Server" plugin to VSCode. (It's included in recommend extensions the workspace)
+- Press to "Go Live" icon toolbar bottom right, and the port 5500 is forwarded to your client.
 
 ### Docker container
 
