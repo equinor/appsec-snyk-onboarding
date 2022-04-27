@@ -3,10 +3,16 @@
 ## Before workshop
 
 - Create org for team if not created
+- Create a demo project from template "https://github.com/equinor/appsec-snyk-onboarding" - place on Equinor Playground
+- Explore & Test Team Projects (using Snyk CLI)
+  - Consider importing into Snyk Org "ISC-Snyk-On-Boarding"
+- Send invitation to team lead, and ask to forward to team members
+
+### Good practise
+
 - Fork the repo and add github integration to isc-appsec or own org to check integration
 - Run snyk test from cli to check if it has any advantages over github integration
 - Check plugin result to see if Snyk Code finds any improvements
-- Send invitation to team lead, and ask to forward to team members
 
 ## Invitation email
 ```
@@ -42,3 +48,4 @@ Relevant links :
 ## After workshop
 - Register team and onboarding session in [spreadsheet](https://statoilsrm.sharepoint.com/:x:/r/sites/ISCAppSec/Shared%20Documents/General/Snyk%20adoption/Onboarding%20sessions.xlsx?d=w3316d62130554a1ca6b9f7db08ca50d2&csf=1&web=1&e=bsg2fv)
 - Fill in workshop experience in [experience document](https://statoilsrm.sharepoint.com/:w:/r/sites/ISCAppSec/Shared%20Documents/General/Snyk%20adoption/Workshop%20experience.docx?d=wf85532313c6a493a9ff1d2030a6e58f0&csf=1&web=1&e=cKaJAr)
+- Delete demo project on "github.com/equinor-playground" and the "ISC-Snyk-Onboarding" Snyk Organization
