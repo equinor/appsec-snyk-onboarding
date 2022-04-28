@@ -3,7 +3,7 @@
 ## Before workshop
 
 - Create org for team if not created
-- Create a demo project from template "https://github.com/equinor/appsec-snyk-onboarding" - place on Equinor Playground
+- Create a demo project from template "https://github.com/Equinor-Playground/Snyk-Onboard-Demo-Project" - place new on Equinor-Playground as well
 - Explore & Test Team Projects (using Snyk CLI)
   - Consider importing into Snyk Org "ISC-Snyk-On-Boarding"
 - Send invitation to team lead, and ask to forward to team members
