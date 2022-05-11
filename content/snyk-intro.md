@@ -11,7 +11,7 @@
 * [Snyk Infrastructure As Code](https://docs.snyk.io/products/snyk-infrastructure-as-code)*
 * [Snyk Code](https://docs.snyk.io/products/snyk-code)* (SAST)
 
-*Products are in test/evaluation mode <!-- .element: style="font-size:0.5em"-->
+* Equinor has not purchased licenses, we have access through evaluation mode <!-- .element: style="font-size:0.5em"-->
 
 ---
 
