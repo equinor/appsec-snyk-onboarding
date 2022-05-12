@@ -28,4 +28,5 @@ Purpose:
 - Snyk Intro   <!-- .element: style="font-size:0.8em"-->
 - Demo: Snyk - GitHub integration <!-- .element: style="font-size:0.8em"-->
 - Looking at your projects <!-- .element: style="font-size:0.8em"-->
+- Snyk@Equinor <!-- .element: style="font-size:0.8em"-->
 - Discussions <!-- .element: style="font-size:0.8em"-->
