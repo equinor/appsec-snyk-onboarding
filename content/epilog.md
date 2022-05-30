@@ -1,6 +1,11 @@
 <!-- .slide: data-background-image="./content/images/appsec-icon.svg" data-background-size="7%" data-background-position="right 2% top 2%"-->
+<!-- markdownlint-disable MD033 -->
 
-# Discussion
+# Wrapping-up
+
+---
+
+# Any questions left?
 
 ---
 
@@ -17,8 +22,7 @@
 
 ---
 
-
-## Thank You!
+## Thank You
 
 join us - [#AppSec channel - equinor.slack.com](https://equinor.slack.com)
 
