@@ -1,6 +1,11 @@
 <!-- .slide: data-background-image="./content/images/appsec-icon.svg" data-background-size="7%" data-background-position="right 2% top 2%"-->
+<!-- markdownlint-disable MD033 -->
 
 # Motivation
+
+---
+
+## Open Source Software (OSS)
 
 <div style="display: grid;grid-column-gap: 1%; grid-auto-columns: 60% 40%;">
 
@@ -26,13 +31,17 @@
 
 ---
 
+## AppSec related Security issues in the news  <!-- .element: style="font-size:0.9em"-->
+
 <!-- Video -->
 <iframe width="1080" height="560" src="https://www.youtube-nocookie.com/embed/5HnS1zMnUJ4 " title="Secure Code Intro" frameborder="0"  allowfullscreen></iframe>
 
 Note:
+
 - A side note: It’s not about if your are hacked, it’s when. How you handle the incident is important. Hydro was transparent – and handled their crisis good. No real loss in reputation, rather the opposite.
 
 Video sources on Youtube:
+
 - Petya - Nasty Petya Ransomware Spreading Fast (CNET News) (ransome)
 - SolarWinds - The SolarWinds Hack And The Future Of Cyber Espionage (supply chain)
 - Kaseya - Russian Hacking Group Targets Software Company Kaseya | MSNBC (ransome)
