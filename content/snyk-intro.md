@@ -9,10 +9,10 @@
 
 * [Snyk Open Source](https://docs.snyk.io/products/snyk-open-source) (OSS Libraries and Licenses)
 * [Snyk Container](https://docs.snyk.io/products/snyk-container)
-* [Snyk Infrastructure As Code](https://docs.snyk.io/products/snyk-infrastructure-as-code)*
-* [Snyk Code](https://docs.snyk.io/products/snyk-code)* (SAST)
+* [Snyk Infrastructure As Code](https://docs.snyk.io/products/snyk-infrastructure-as-code)
+* [Snyk Code](https://docs.snyk.io/products/snyk-code) (SAST)
 
-\* Equinor has not purchased licenses, we have access through evaluation mode <!-- .element: style="font-size:0.5em"-->
+
 
 ---
 
