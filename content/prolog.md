@@ -12,7 +12,7 @@ Identifying known vulnerabilities </br>in your open source dependencies.
 ## Practicalities
 
 - Please DO interrupt during the workshop</br> - this is not a presentation or monolog
-- Slides and code are available at: </br> - [https://github.com/equinor/appsec-snyk-onboarding](https://github.com/equinor/appsec-snyk-onboarding) </br> - [https://snykonboarding.app.playground.radix.equinor.com](https://snykonboarding.app.playground.radix.equinor.com)
+- Slides and code are available at: </br> - [https://github.com/equinor/appsec-snyk-onboarding](https://github.com/equinor/appsec-snyk-onboarding) </br> - [https://snykonboarding.app.radix.equinor.com](https://snykonboarding.app.radix.equinor.com)
 
 ---
 
