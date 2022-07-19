@@ -4,7 +4,7 @@
 
 Training material for basic introduction to use Snyk for scanning open source libraries and it's dependencies for vulnerabilities.
 
-The slides are created with [Reveal.js](https://revealjs.com/), and automatically deployed to [Omnia Radix](https://snykonboarding.app.playground.radix.equinor.com) on new commits to the `main` branch.
+The slides are created with [Reveal.js](https://revealjs.com/), and automatically deployed to [Omnia Radix](https://snykonboarding.app.radix.equinor.com) on new commits to the `main` branch.
 
 ## Updating content
 
