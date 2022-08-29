@@ -29,3 +29,15 @@ How to provide a hash for the .js and .css file provided in the source.
 
 - `cat ./content/js/app.js | openssl dgst -sha512 -binary | openssl base64 -A`
 - `cat ./content/css/equinor.css | openssl dgst -sha512 -binary | openssl base64 -A`
+
+# Generate or update QR link to site
+
+The QR code for easily getting the link to the site should be updated if its URL changes
+
+```
+cd scripts/
+python -m venv env
+source env/bin/activate
+pip install -r requirements.txt
+qr 'https://snykonboarding.app.radix.equinor.com/' > ../content/images/snykonboarding_qr.png
+```
