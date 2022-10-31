@@ -5,9 +5,17 @@
 
 ---
 
+## Getting Access
+
+* Apply for Snyk in AccessIT
+  * Optional : Ask _**@appsecteam**_ in Slack channel _[#AppSec](https://equinor.slack.com/archives/CMM6FSW5V)_ to create a Snyk organization for your team
+* Login to [app.snyk.io](https://app.snyk.io/) using sso
+* After your first time sign in, you will be able to list organizations available at the Equinor Group overview (top level). If you see a relevant org to join, request one of the listed _**org admins**_ to add you to the org.
+
+---
+
 ## Demo (1/2)
 
-* (Apply for access to Snyk in Access@IT)<!-- .element: style="font-size:0.9em"-->
 * Logging in to [app.snyk.io](https://app.snyk.io/)
 * Select "Organization" (Equinor-Test/ISC-SNYK-Onboarding)
   * Dashboard, Reports, Projects, Integrations, Members
