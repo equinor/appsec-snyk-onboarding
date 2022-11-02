@@ -28,7 +28,6 @@ Identifying known vulnerabilities </br>in your open source dependencies.
 - Motivation - why we do this <!-- .element: style="font-size:0.8em"-->
 - Snyk Intro  <!-- .element: style="font-size:0.8em"-->
 - Snyk Demo  <!-- .element: style="font-size:0.8em"-->
-- Looking at your projects <!-- .element: style="font-size:0.8em"-->
 - Snyk@Equinor <!-- .element: style="font-size:0.8em"-->
 - AppSec Topics <!-- .element: style="font-size:0.8em"-->
 - Wrapping-up <!-- .element: style="font-size:0.8em"-->

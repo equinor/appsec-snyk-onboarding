@@ -38,7 +38,7 @@ Now you know Snyk, Whats's next?
 
 </div>
 
-Identify [#Security-champion](https://equinor.slack.com/archives/C036HGPBJ04)'s in your team.</br> We are establishing a network of Security Champions in Equinor.  <!-- .element: style="font-size:0.8em"-->
+Identify [#Security-champion](https://equinor.slack.com/archives/C036HGPBJ04)'s in your team and have them join the Security Champions Network in Equinor.  <!-- .element: style="font-size:0.8em"-->
 
 <!-- 
 
