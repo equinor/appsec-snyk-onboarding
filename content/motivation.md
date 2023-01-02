@@ -14,7 +14,7 @@
 - Open Source Software (OSS) is everywhere
   - It is a foundation for all modern software development​
   - In Equinor we develop OSS. </br>([Open Source in Equinor](https://opensource.app.radix.equinor.com/))
-  - OSS typically represent 80%+ of all code in system developed by Equinor - and by our vendors
+  - OSS typically represent 80%+ of all code in systems developed by Equinor - and by our vendors
     - That is code we have not developed our self
     - More code means more vulnerabilities!
 - All software is a living organism
