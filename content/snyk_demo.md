@@ -7,11 +7,23 @@
 
 ## Getting Access
 
+<div style="display: grid;grid-column-gap: 1%; grid-auto-columns: 60% 40%;">
+
+<div  style="grid-area: 1 / 1;font-size:0.8em"">
+
 * Apply for Snyk in AccessIT
   * Optional : Ask _**@appsecteam**_ in Slack channel _[#AppSec](https://equinor.slack.com/archives/CMM6FSW5V)_ to create a Snyk organization for your team
 * Login to [app.snyk.io](https://app.snyk.io/) using sso
 * After your first time sign in, you will be able to list organizations available at the Equinor Group overview (top level). If you see a relevant org to join, request one of the listed _**org admins**_ to add you to the org.
 
+</div>
+
+<div  style="grid-area: 1 / 2; font-size:0.8em"">
+</br></br></br></br>
+ <img src="./content/images/snyk-login.png" width="60%" height="auto" display="block" margin-left="auto" margin-right="auto">
+</div>
+
+</div>
 ---
 
 ## Demo (1/2)
@@ -38,6 +50,7 @@
 * Explore Reports Section
   * Selector (Projects, Filters)
   * Summary, Issues, Dependencies, Licenses
+* Explore Dependencies section
 * Explore Dashboard
 * Optional: Explore CLI and/or VSCode Plugin
 

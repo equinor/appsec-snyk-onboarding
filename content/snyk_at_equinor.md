@@ -8,8 +8,8 @@ This section contains info on a few important</br> customisations when using Sny
 
 ## Tagging of Snyk Projects
 
-* [Filtering "noise" from scanning results](https://equinor.github.io/appsec/snyk-guidelines/snyk_tagging_projects.html)
+* [Filtering "noise" from scanning results](https://equinor.github.io/appsec/snyk/guidelines/3-snyk_tagging_projects/)
   * **Lifecyle stage** = **Sandbox**
-* [Toggling the rule-set for distributed open source projects](https://equinor.github.io/appsec/snyk-guidelines/snyk_tagging_projects.html)
+* [Toggling the rule-set for distributed open source projects](https://equinor.github.io/appsec/snyk/guidelines/3-snyk_tagging_projects/)
 
 _The role __"Org Admin"__ is required to make changes to the "Life cycle" and "Environment" tag._
