@@ -11,7 +11,7 @@
 
 # Important Resources
 
-* [ISC AppSec Snyk Guidelines](https://equinor.github.io/appsec/snyk)
+* [ISC AppSec Snyk Guidelines](https://appsec.equinor.com/snyk/)
 * Snyk
   * [https://app.snyk.io](https://app.snyk.io)
   * [https://docs.snyk.io/](https://docs.snyk.io/)
