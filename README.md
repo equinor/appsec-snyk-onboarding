@@ -1,5 +1,8 @@
 # Open Source vulnerability scanning with Snyk
 
+Archiving repo. It's not updated and it is not being used. Our guidelines on appsec.equinor.com is the got source for information as well as the #appsec community on Slack.
+
+
 > Onboard your DevOps team on using Snyk.
 
 Training material for basic introduction to use Snyk for scanning open source libraries and it's dependencies for vulnerabilities.
